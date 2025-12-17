@@ -1,0 +1,21 @@
+﻿  pch.cpp
+  CAddProductDlg.cpp
+  CAutoOrderNotifyDlg.cpp
+  CBulkOrderDlg.cpp
+C:\Users\모블\Desktop\정소빈\모블\프로젝트\4_2차 팀프로젝트\inventory-master\InventoryManager\CAutoOrderNotifyDlg.cpp(82,45): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CAutoOrderNotifyDlg.cpp'을(를) 컴파일하는 중)
+  
+  CEditStockDlg.cpp
+  COrderDlg.cpp
+  CSettingsDlg.cpp
+  CStatsDlg.cpp
+  DBManager.cpp
+  InventoryManager.cpp
+  InventoryManagerDlg.cpp
+C:\Users\모블\Desktop\정소빈\모블\프로젝트\4_2차 팀프로젝트\inventory-master\InventoryManager\InventoryManagerDlg.cpp(758,47): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/InventoryManagerDlg.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  InventoryManager.vcxproj -> C:\Users\모블\Desktop\정소빈\모블\프로젝트\4_2차 팀프로젝트\inventory-master\x64\Debug\InventoryManager.exe
+  C:\Program Files\MySQL\MySQL Server 8.0\lib\libmysql.dll
+  1개 파일이 복사되었습니다.
